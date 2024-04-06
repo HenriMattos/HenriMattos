@@ -4,8 +4,6 @@
 [![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://henrimattos.github.io/)
 [![Email](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://henrimattos.github.io/)
 
-![Henri GitHub stats](https://github-readme-stats.vercel.app/api?username=henrimattos&show_icons=true&theme=dark#gh-dark-mode-only)
-
 ## 💻 Skills
 
 <div style="display: inline_block">
