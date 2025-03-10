@@ -1,7 +1,7 @@
 # Henri Mattos  
 
 ## About Me  
-- Front-end Developer focused on responsive and interactive interfaces  
+- Web Developer focused on responsive and interactive interfaces  
 - Interested in UX/UI Design, cybersecurity, and modern web development  
 
 ## Technical Skills  
