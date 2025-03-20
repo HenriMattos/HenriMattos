@@ -1,8 +1,8 @@
 # Henri Mattos  
 
 ## About Me  
-- Web Developer focused on responsive and interactive interfaces  
-- Interested in UX/UI Design, cybersecurity, and modern web development  
+- Web Developer focused on responsive and interactive interfaces.
+- Interested in cybersecurity.
 
 ## Technical Skills  
 - **Languages & Frameworks**:  
