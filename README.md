@@ -14,4 +14,4 @@
 - **Others**:  
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&style=flat-square)    ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&style=flat-square) 
 ## Contact  
-[<img src="https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&style=flat-square" alt="Email">](mailto:henrikdepaivamattos@proton.me)  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn">](https://www.linkedin.com/in/henri-mattos)  [<img src="https://img.shields.io/badge/Portfolio-000?logo=web&style=flat-square" alt="Portfolio">](https://)  
+[<img src="https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&style=flat-square" alt="Email">](mailto:henrikdepaivamattos@proton.me)  [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat-square" alt="LinkedIn">](https://www.linkedin.com/in/henri-mattos)
