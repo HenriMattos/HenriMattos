@@ -8,7 +8,7 @@
 - **Languages & Frameworks**:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&style=flat-square)    ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&style=flat-square)    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&style=flat-square)  
 - **Styling & UI/UX**:  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&style=flat-square)    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=flat-square)    ![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&style=flat-square)  
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&style=flat-square)    ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=flat-square) 
 - **Version Control**:  
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square)    ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)  
 - **Others**:  
