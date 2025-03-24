@@ -1,7 +1,6 @@
 ### Hi there, I'm Henrique Mattos 👋
 
-I'm a passionate **Software Developer** specializing in **React** and modern web technologies. I love building beautiful and efficient web applications that provide great user experiences.
-
+I'm a passionate **Software Developer** specializing in **React** and modern web technologies.
 ---
 
 ### Tech Stack
