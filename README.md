@@ -11,7 +11,6 @@
 
 ### Contact
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/henri-mattos/)
-[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/HenriMattos)
 [![Email](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:henrikdepaivamattos@proton.me)
-[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://seusite.com)  <!-- Substitua 'seusite.com' pelo seu domínio real -->
+[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://seusite.com)
 
