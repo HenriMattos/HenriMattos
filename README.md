@@ -12,8 +12,7 @@
 ---
 
 ### Contact
-[![LinkedIn](https://cdn.simpleicons.org/linkedin/0A66C2)](https://www.linkedin.com/in/henri-mattos/)
-[![GitHub](https://cdn.simpleicons.org/github/181717)](https://github.com/HenriMattos)
-[![Email](https://cdn.simpleicons.org/gmail/EA4335)](mailto:henrikdepaivamattos@proton.me)
-[![Website](https://cdn.simpleicons.org/googlechrome/4285F4)](https://seusite.com)  <!-- Substitua 'seusite.com' pelo seu domínio real -->
-
+[![LinkedIn](https://img.icons8.com/3d-fluency/100/linkedin.png)](https://www.linkedin.com/in/henri-mattos/)
+[![GitHub](https://img.icons8.com/3d-fluency/100/github.png)](https://github.com/HenriMattos)
+[![Email](https://img.icons8.com/3d-fluency/100/gmail.png)](mailto:henrikdepaivamattos@proton.me)
+[![Website](https://img.icons8.com/3d-fluency/100/domain.png)](https://seusite.com)  <!-- Substitua 'seusite.com' pelo seu domínio real -->
