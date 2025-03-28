@@ -10,7 +10,8 @@
 ---
 
 ### Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henri-mattos/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrikdepaivamattos@proton.me)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://seusite.com)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/henri-mattos/)
+[![GitHub](https://img.icons8.com/fluency/48/000000/github.png)](https://github.com/HenriMattos)
+[![Email](https://img.icons8.com/fluency/48/000000/gmail.png)](mailto:henrikdepaivamattos@proton.me)
+[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://seusite.com)  <!-- Substitua 'seusite.com' pelo seu domínio real -->
 
