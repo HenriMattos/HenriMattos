@@ -1,5 +1,3 @@
-### Henrique Mattos
-
 **Software Developer** specializing in **React** and modern web technologies. Focused on building high-performance applications and staying updated with the latest industry advancements.
 
 ---
