@@ -1,4 +1,4 @@
-Committed to exploring new technologies to enhance development efficiency.
+## Committed to exploring new technologies to enhance development efficiency.
 
 ---
 
